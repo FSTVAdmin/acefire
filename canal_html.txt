@@ -30,5 +30,10 @@ M.L. Campeones 1080P
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9 
 M.L. Campeones 720 
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c 
+EuroSport 1 1080 
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952 
+--
+EuroSport 1 1080 
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952 
 Gol Play
 https://www.goltelevision.com/en-directo
